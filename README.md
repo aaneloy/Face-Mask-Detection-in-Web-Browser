@@ -1,9 +1,7 @@
 # Face-Mask-Detection-in-Web-Browser
 
-
-
-
-
+## Demo 
+https://neloynsu.github.io/Face-Mask-Detection-in-Web-Browser/
 
 
 
