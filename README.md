@@ -1,4 +1,6 @@
 # Face-Mask-Detection-in-Web-Browser
+![Author](https://img.shields.io/badge/author-aaneloy-blue)
+
 This model is a lightweight face mask detection model deployed in web-browser through TensorflowJS. This model is Based on **SSD** and the backbone is **MobilenetV2**.
 
 ### Installation
