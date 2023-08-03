@@ -7,7 +7,7 @@ This model is a lightweight face mask detection model deployed in web-browser th
 Create a new python virtual environment by [Anaconda](https://www.anaconda.com/) and run the requirement file `pip install -r requirements.txt`
 
 
-### Demo 
+### Demo Test
 https://aaneloy.github.io/Face-Mask-Detection-in-Web-Browser/
 
 ### License
