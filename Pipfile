@@ -9,7 +9,7 @@ ipykernel = "==5.3.0"
 [packages]
 imutils = "==0.5.3"
 keras = "==3.13.2"
-opencv-python = "==4.2.0.*"
+opencv-python = "==4.8.1.78"
 matplotlib = "==3.2.2"
 numpy = "==1.26.4"
 pillow = "==12.3.0"
